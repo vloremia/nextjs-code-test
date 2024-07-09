@@ -4,6 +4,7 @@ Welcome to the Khemistry Next.js code test!
 
 ## Instructions
 
+- [Fork this repo](https://github.com/growthops-digital/nextjs-code-test/fork) and complete the assigment on your own copy of this repository.
 - Create and implement the missing component(s) on the home page based on the supplied design below.
 - Ensure that the data you supply to your component comes from the `getFAQData` function (already created for you).
 
